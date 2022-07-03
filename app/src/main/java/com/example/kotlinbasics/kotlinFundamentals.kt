@@ -257,4 +257,7 @@ fun main() {
     nullableName5!!.toLowerCase() // Results in NullPointerException
 
 
+    // Fundamentals ends here
+
+
 }
